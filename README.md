@@ -1,1 +1,2 @@
 # braniacs
+# Players place symbol X or O on a 3x3 grid, first player to get 3 symbols in a row wins horizontally vertically or diagonally. If all cells are filled and neither player wins the game ends in a tie. Row and column numbers begin with 0 and there are three (0, 1, 2) two numbers separated by space are how the player inputs where they want their symbol to go, numbers from 0 to 2 are valid.
